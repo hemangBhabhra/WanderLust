@@ -15,6 +15,12 @@ It provides a seamless user experience with robust **authentication**, **CRUD fu
 - ✅ **Validations**: Both client-side and server-side form validations ensure data integrity.
 
 ---
+## Screenshots
+
+### 🔐 Signup Page
+![Signup Page](/images/signup-page.jpeg)
+
+---
 
 ## 🚀 Wanderlust Web Project Installation Guide
 
