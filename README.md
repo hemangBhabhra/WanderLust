@@ -17,8 +17,20 @@ It provides a seamless user experience with robust **authentication**, **CRUD fu
 ---
 ## Screenshots
 
-### 🔐 Signup Page
+###  Signup Page
 ![Signup Page](/images/signup-page.jpeg)
+
+###  Login Page
+![Login Page](/images/login-page.jpeg)
+
+###  All listings Page
+![All listings Page](/images/all-listings.jpeg)
+
+###  Lisiting Page
+![Listing Page](/images/listing-page.jpeg)
+
+###  Location view Page
+![Location view Page](/images/loaction-view.jpeg)
 
 ---
 
